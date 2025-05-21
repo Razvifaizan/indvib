@@ -103,3 +103,20 @@
     font-weight: bold;
 }
 
+
+
+/* ===================================== */
+
+
+
+.slider-image {
+    width: 400px;
+    /* Set your desired fixed width */
+    height: 300px;
+    /* Set your desired fixed height */
+    object-fit: cover;
+    /* Use 'cover' to fill box with cropping, or 'contain' to fit without cropping */
+    border-radius: 10px;
+    /* Optional: smooth corners */
+    transition: opacity 0.3s ease-in-out; }
+
