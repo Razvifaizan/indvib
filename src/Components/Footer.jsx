@@ -11,7 +11,7 @@ const Footer = () => {
           {/* Company Info and Main Links */}
           <div className="col-md-4 mb-4">
           <h2 className="fw-bold">
-  <span className="text-info">Ind</span><span className="text-white">Vibe Infotech</span>
+  <span className="text-info">IndVibe</span><span className="text-white"> Infotech</span>
 </h2>
 
 
